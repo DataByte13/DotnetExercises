@@ -1,0 +1,26 @@
+# Default ignored files
+.vs/
+.idea/
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/.idea.nlp-lab-backend.iml
+/projectSettingsUpdater.xml
+/contentModel.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# obj and bin folders of projects
+*/obj/
+Nlp-Lab.Application/obj/
+Nlp-Lab.Infrastructure/obj/
+Nlp-Lab.Identity/obj/
+
+*/bin/
+Nlp-Lab.Application/bin
+Nlp-Lab.Identity/bin/
+Nlp-Lab.Infrastructure/bin/
